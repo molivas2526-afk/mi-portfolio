@@ -40,7 +40,7 @@ Soc una futura desenvolupadora de programari, actualment cursant un cicle format
 
 **Tecnologies:** Java · Swing · SQL · HTML/CSS/JS · Dolibarr · VirtualBox · GitHub
 
-📄 [Veure documentació del projecte](./https://github.com/molivas2526-afk/mi-portfolio/tree/main/projecte-free)
+📄 [Veure documentació del projecte](./projecte-free)
 
 ---
 
