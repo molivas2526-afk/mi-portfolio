@@ -46,5 +46,6 @@ Soc una futura desenvolupadora de programari, actualment cursant un cicle format
 
 ## Contacte
 
-- 📧 molivas2526@politecnics.barccelona
-- 🐙 [GitHub](https://github.com/molivas2526-afk)
+- molivas2526@politecnics.barccelona
+- [GitHub](https://github.com/molivas2526-afk)
+- [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-oliva-sal%C3%B3n-9a6bb5386/)
