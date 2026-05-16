@@ -40,7 +40,7 @@ Soc una futura desenvolupadora de programari, actualment cursant un cicle format
 
 **Tecnologies:** Java · Swing · SQL · HTML/CSS/JS · Dolibarr · VirtualBox · GitHub
 
-📄 [Veure documentació del projecte](./projecte-free/README.md)
+📄 [Veure documentació del projecte](./projecte-free)
 
 ---
 
