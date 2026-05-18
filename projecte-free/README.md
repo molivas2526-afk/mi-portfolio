@@ -61,4 +61,24 @@ Com que és un projecte majoritàriament individual, m'he encarregat de totes le
 - Administrar servidors i entorns virtuals en Linux i Windows
 - Automatitzar processos de base de dades amb SQL avançat
 - Documentar i presentar un projecte de manera professional
+
+## Captures Joc 2D
+
+**Escriu el teu nom**:
+<img width="322" height="160" alt="albert" src="https://github.com/user-attachments/assets/edcd277c-10ab-47d5-85bb-e6d5470a7a62" />
+
+**Partida guanyada**:
+<img width="522" height="665" alt="has guanyat!" src="https://github.com/user-attachments/assets/a69627e1-f1aa-4266-ba71-ff554aae2ed7" />
+
+**Partida perduda!**
+<img width="531" height="660" alt="has perdut!" src="https://github.com/user-attachments/assets/a65761f9-2a01-4a43-8104-4fb1b2a86425" />
+
+**Classificació TOP 10**:
+<img width="347" height="410" alt="image" src="https://github.com/user-attachments/assets/a213e57e-a46e-4b85-9740-ff884d42f6dc" />
+
+
+
+
+
+
   
